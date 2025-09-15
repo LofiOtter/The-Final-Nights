@@ -2,7 +2,7 @@
 	name = "Korean"
 	desc = "Korean is spoken in Korea, as well as the eighth most spoken in San Francisco."
 	flags = TONGUELESS_SPEECH
-	key = "k"
+	key = "o"
 	syllables = list(
 		"geureochiman","na","geona","geurigo","go","geuraeseo","seo","nikka","myeon","wa","wihae",
 		"geuttae","kkeudeopda","keuda","meolda","gabyeopda","gwayeon","jal","bammada","imi",
