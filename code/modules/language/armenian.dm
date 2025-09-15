@@ -1,6 +1,6 @@
 /datum/language/armenian
 	name = "Armenian"
-	desc = "Los Angeles is home to the largest population of Armenians outside of Armenia. It is the sixth most spoken language in the county."
+	desc = "Armenian is spoken by those in the Armenian Highlands in Western Asia."
 	flags = TONGUELESS_SPEECH
 	key = "n"
 	syllables = list(
