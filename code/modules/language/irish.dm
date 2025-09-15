@@ -2,7 +2,7 @@
 	name = "Irish"
 	desc = "The melodic language spoken by the Irish."
 	flags = TONGUELESS_SPEECH
-	key = "ir"
+	key = "b"
 	space_chance = 30
 	syllables = list(
 		"ús", "mar", "ea", "ai", "áin", "íl", "áil", "an", "oi", "deir",
