@@ -1,6 +1,6 @@
 /datum/language/persian
 	name = "Persian"
-	desc = "Persian, or Farsi, is the seventh most commonly spoken language in Los Angeles. It is common in and around Iran and Afghanistan."
+	desc = "Persian, or Farsi, is spoken by some residents of San Francisco. It is common in and around Iran and Afghanistan."
 	flags = TONGUELESS_SPEECH
 	key = "p"
 	syllables = list(
