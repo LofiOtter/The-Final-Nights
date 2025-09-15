@@ -1,4 +1,4 @@
-/datum/language/persian
+/datum/language/farsi
 	name = "Persian"
 	desc = "Persian, or Farsi, is spoken by some residents of San Francisco. It is common in and around Iran and Afghanistan."
 	flags = TONGUELESS_SPEECH
