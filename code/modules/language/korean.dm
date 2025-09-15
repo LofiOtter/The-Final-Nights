@@ -1,6 +1,6 @@
 /datum/language/korean
 	name = "Korean"
-	desc = "Korean is spoken in Korea. It is fourth most spoken language in Los Angeles county."
+	desc = "Korean is spoken in Korea, as well as the eighth most spoken in San Francisco."
 	flags = TONGUELESS_SPEECH
 	key = "k"
 	syllables = list(
