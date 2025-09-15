@@ -3,7 +3,7 @@
 	desc = "The bold language spoken by the Scottish."
 	flags = TONGUELESS_SPEECH
 	key = "s"
-	space_chance = 30
+	space_chance = 40
 	syllables = list(
 		"'s", "na'", "nan", "a", "ài", "fhi", "shi", "nbh", "oi", "thu",
     "ghl", "do", "mon", "aid", "dhe", "dha", "iar", "aidh", "gun", "chl",
