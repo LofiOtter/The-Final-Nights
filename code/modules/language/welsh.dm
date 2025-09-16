@@ -2,7 +2,7 @@
 	name = "Welsh"
 	desc = "The flowing language spoken by the Welsh."
 	flags = TONGUELESS_SPEECH
-	key = "w"
+	key = "W"
 	space_chance = 30
 	syllables = list(
 		"ad", "dwi'", "tydi'", "rwy'", "yll", "yn", "ydw", "ffi'", "ysg", "ac",
