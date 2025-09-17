@@ -32,6 +32,7 @@
 		/datum/language/greek,
 		/datum/language/garou_tongue,
 		/datum/language/primal_tongue,
+	//TFN Languages - Adds Seven Languages, Armenian, Farsi, Korean, and Tagalog ported from Requiem.
 		/datum/language/irish,
 		/datum/language/scottish,
 		/datum/language/welsh,
